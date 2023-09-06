@@ -1,1 +1,3 @@
-# FDM-Electric-Field-Playground
+# FDM-Electric-Field-Playground ⚡
+
+![animation](animation.gif)
